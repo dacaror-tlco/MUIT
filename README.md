@@ -3,6 +3,9 @@ TFM y otros proyectos elaborados a lo largo del Master Universitario en Ingenier
 
 <h1>🎓 Trabajo de Fin de Máster (TFM)</h1>
 
+<h3>Mejora de la resiliencia y seguridad en la conectividad de Istec hacia la Generalitat Valenciana y su acceso a Internet
+mediante redundancia, SD-WAN y modelos de seguridad avanzados</h3>
+
 <p>
 Este TFM tiene como objetivo mejorar la <strong>resiliencia, seguridad y autonomía</strong> en la conectividad de la Sede de Istec hacia la red de la Generalitat Valenciana (GVA) y en su salida a Internet.
 </p>
